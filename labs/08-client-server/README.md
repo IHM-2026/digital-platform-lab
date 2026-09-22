@@ -3,7 +3,7 @@
 ## Syfte
 
 Jämföra det klienten skickar med det servern faktiskt bekräftar. Se skillnaden mellan ett mottaget event, en affärshändelse och en rapport. Undersök också om samma event-id räknas som en dubblett av den nuvarande servern.
-
+ofihaseiofhwiofh
 ## Mål
 
 Du kan läsa metod, payload, status och svar i Network och säga exakt vad ett `202`-svar visar. Du kan testa två likadana event och dra en slutsats om den nuvarande serverns beteende.
